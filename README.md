@@ -1,6 +1,6 @@
 # Landing
 
-- Deploy: [link](https://ivan1986mrpl.github.io/landing/dist/)
+- Deploy: [link](https://ivan-mr1.github.io/landing/dist/)
 
 - Technologies: HTML, SCSS, Javascript, Vite, Eslint, Stylelint, Prettier
 
